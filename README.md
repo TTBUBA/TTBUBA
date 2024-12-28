@@ -1,6 +1,6 @@
 # Hi, I'm Francesco borrelli 👋
 
-- 🌱 I'm currently working on [
+- 🌱 I'm currently working on [https://github.com/TTBUBA/card-game]
 - 📫 Reach me at: [bubadevbusiness@gmail.com]
 - 📝 I regularly write on [LinkedIn]([https://www.linkedin.com/in/username](https://www.linkedin.com/in/francesco-borrelli-51145827b/))
 
