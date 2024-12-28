@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Francesco borrelli 👋
 
-<!--
-**TTBUBA/TTBUBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm currently working on [
+- 📫 Reach me at: [bubadevbusiness@gmail.com]
+- 📝 I regularly write on [LinkedIn]([https://www.linkedin.com/in/username](https://www.linkedin.com/in/francesco-borrelli-51145827b/))
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
