@@ -1,4 +1,4 @@
-# Hi, I'm Francesco borrelli 👋
+# Hi, I'm BUBA 👋
 
 - 🌱 I'm currently working on [https://github.com/TTBUBA/card-game]
 - 📫 Reach me at: [bubadevbusiness@gmail.com]
