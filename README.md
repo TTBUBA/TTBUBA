@@ -1,7 +1,5 @@
 # Hi, I'm BUBA 👋
 
-- 🌱 I'm currently working on [https://github.com/TTBUBA/card-game]
-- 📫 Reach me at: [bubadevbusiness@gmail.com]
 ## Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
